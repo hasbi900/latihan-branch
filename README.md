@@ -1,3 +1,3 @@
 ***Ini adalah repository di Branch baru***
 ---
-GitHub itu asyik loh.
+Belajar GitHub di Dicoding itu seru!
